@@ -1,0 +1,6 @@
+version: 1
+CurrentRegion: us-east-1
+FleetId: fleet-48310c15-433b-44d2-bb41-813a42a2efc0
+ComputeName: OhadWindows-ohad-unity
+WebSocketUrl: wss://us-east-1.api.amazongamelift.com
+...

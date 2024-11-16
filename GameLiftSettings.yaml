@@ -1,0 +1,75 @@
+version: 1
+LastOpenTab: ManagedEC2
+CurrentProfileName: ohad-unity
+CurrentRegion: us-east-1
+UserProfiles: >+
+  - Region: us-east-1
+
+    Name: ohad_test_unity_example
+
+    BucketName: 
+
+    AnywhereFleetName: 
+
+    AnywhereFleetId: 
+
+    AnywhereFleetLocation: 
+
+    ComputeName: 
+
+    IpAddress: 
+
+    WebSocketUrl: 
+
+    DeploymentScenario: SingleRegion
+
+    DeploymentGameName: 
+
+    ManagedEC2FleetName: 
+
+    BuildName: 
+
+    LaunchParameters: 
+
+    BuildOperatingSystem: 
+
+    DeploymentBuildFilePath: 
+
+    DeploymentBuildFolderPath: 
+
+  - Region: us-east-1
+
+    Name: ohad-unity
+
+    BucketName: gamelift-bootstrap-209479289553-us-east-1
+
+    AnywhereFleetName: TestGame-AnywhereFleet
+
+    AnywhereFleetId: fleet-48310c15-433b-44d2-bb41-813a42a2efc0
+
+    AnywhereFleetLocation: custom-location-1
+
+    ComputeName: OhadWindows-ohad-unity
+
+    IpAddress: 127.0.0.1
+
+    WebSocketUrl: wss://us-east-1.api.amazongamelift.com
+
+    DeploymentScenario: SingleRegion
+
+    DeploymentGameName: MultiTest3
+
+    ManagedEC2FleetName: MultiTest3-ManagedFleet
+
+    BuildName: MultiTest3-Single-Region_Fleet-Build
+
+    LaunchParameters: ''
+
+    BuildOperatingSystem: AMAZON_LINUX_2
+
+    DeploymentBuildFilePath: C:\Users\ohadk\Desktop\Projects\MultiTest3\ServerBuild\build.x86_64
+
+    DeploymentBuildFolderPath: C:\Users\ohadk\Desktop\Projects\MultiTest3\ServerBuild
+
+CurrentBucketName: gamelift-bootstrap-209479289553-us-east-1
+...
