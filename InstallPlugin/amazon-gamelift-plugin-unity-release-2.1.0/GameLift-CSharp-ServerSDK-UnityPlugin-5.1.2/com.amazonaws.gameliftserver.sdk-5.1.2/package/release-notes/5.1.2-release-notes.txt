@@ -1,0 +1,1 @@
+- Improved the reliability of the SDK by adding automatic reconnection in the event of network interruption.

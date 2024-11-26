@@ -1,6 +1,6 @@
 version: 1
 LastOpenTab: ManagedEC2
-CurrentProfileName: ohad-unity
+CurrentProfileName: DvirAdmin
 CurrentRegion: us-east-1
 UserProfiles: >+
   - Region: us-east-1
@@ -37,7 +37,7 @@ UserProfiles: >+
 
     DeploymentBuildFolderPath: 
 
-  - Region: us-east-1
+  - Region: 
 
     Name: ohad-unity
 
@@ -70,6 +70,108 @@ UserProfiles: >+
     DeploymentBuildFilePath: C:\Users\ohadk\Desktop\Projects\MultiTest3\ServerBuild\build.x86_64
 
     DeploymentBuildFolderPath: C:\Users\ohadk\Desktop\Projects\MultiTest3\ServerBuild
+
+  - Region: eu-north-1
+
+    Name: dviradmin
+
+    BucketName: 
+
+    AnywhereFleetName: 
+
+    AnywhereFleetId: 
+
+    AnywhereFleetLocation: 
+
+    ComputeName: 
+
+    IpAddress: 
+
+    WebSocketUrl: 
+
+    DeploymentScenario: SingleRegion
+
+    DeploymentGameName: 
+
+    ManagedEC2FleetName: 
+
+    BuildName: 
+
+    LaunchParameters: 
+
+    BuildOperatingSystem: 
+
+    DeploymentBuildFilePath: 
+
+    DeploymentBuildFolderPath: 
+
+  - Region: us-east-1
+
+    Name: default
+
+    BucketName: 
+
+    AnywhereFleetName: 
+
+    AnywhereFleetId: 
+
+    AnywhereFleetLocation: 
+
+    ComputeName: 
+
+    IpAddress: 
+
+    WebSocketUrl: 
+
+    DeploymentScenario: SingleRegion
+
+    DeploymentGameName: 
+
+    ManagedEC2FleetName: 
+
+    BuildName: 
+
+    LaunchParameters: 
+
+    BuildOperatingSystem: 
+
+    DeploymentBuildFilePath: 
+
+    DeploymentBuildFolderPath: 
+
+  - Region: us-east-1
+
+    Name: DvirAdmin
+
+    BucketName: gamelift-bootstrap-209479289553-us-east-1
+
+    AnywhereFleetName: GameName-AnywhereFleet
+
+    AnywhereFleetId: fleet-b8d297f2-f265-42d7-acef-505e7ad06983
+
+    AnywhereFleetLocation: custom-location-1
+
+    ComputeName: ComputerName-ProfileName
+
+    IpAddress: 127.0.0.1
+
+    WebSocketUrl: wss://us-east-1.api.amazongamelift.com
+
+    DeploymentScenario: SingleRegion
+
+    DeploymentGameName: MultiTest3
+
+    ManagedEC2FleetName: MultiTest3-ManagedFleet
+
+    BuildName: MultiTest3-Single-Region_Fleet-Build
+
+    LaunchParameters: ''
+
+    BuildOperatingSystem: AMAZON_LINUX_2
+
+    DeploymentBuildFilePath: C:/Users/dvirk/MultiTest3/ServerBuild/build.x86_64
+
+    DeploymentBuildFolderPath: C:/Users/dvirk/MultiTest3/ServerBuild
 
 CurrentBucketName: gamelift-bootstrap-209479289553-us-east-1
 ...
