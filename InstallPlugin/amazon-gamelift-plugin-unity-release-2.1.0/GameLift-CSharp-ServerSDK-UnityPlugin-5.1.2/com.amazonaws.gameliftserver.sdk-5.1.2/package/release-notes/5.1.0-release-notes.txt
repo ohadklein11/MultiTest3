@@ -1,0 +1,9 @@
+- Add InitSDK() API with no parameters. This API reads server parameters from environment variables, such as fleet ID,
+  compute name, WebSocket URL, process ID and auth token. This API simplifies SDK initialization in Amazon GameLift
+  managed EC2 fleets. For initialization in Amazon GameLift Anywhere fleets, call InitSDK() with the ServerParameters parameter.
+- Provide better error messaging for APIs.
+- Upgrade .NET Framework 4.6.1 to .NET Framework 4.6.2.
+- Support both .NET Framework 4.6.2 and .NET 6.0 in project files. This update consolidates the standalone .NET Framework
+  4.6.x SDK and the standalone .NET 6.0 SDK into a single solution.
+- Add support for .NET Framework 4.x and .NET Standard 2.1 in Unity Engine.
+- Change WebSocket library from "websocketsharp" to "websocketsharp.core" to allow SDK to run on .NET 6.0 (.NET core runtime).

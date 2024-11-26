@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "com.amazonaws.gamelift": "file:C:/Users/ohadk/Desktop/Projects/amazon-gamelift-plugin-unity-release-2.1.0/com.amazonaws.gamelift-2.1.0.tgz",
-    "com.amazonaws.gameliftserver.sdk": "file:C:/Users/ohadk/Desktop/Projects/amazon-gamelift-plugin-unity-release-2.1.0/GameLift-CSharp-ServerSDK-UnityPlugin-5.1.2/com.amazonaws.gameliftserver.sdk-5.1.2.tgz",
+    "com.amazonaws.gamelift": "file:../InstallPlugin/amazon-gamelift-plugin-unity-release-2.1.0/com.amazonaws.gamelift-2.1.0.tgz",
+    "com.amazonaws.gameliftserver.sdk": "file:../InstallPlugin/amazon-gamelift-plugin-unity-release-2.1.0/GameLift-CSharp-ServerSDK-UnityPlugin-5.1.2/com.amazonaws.gameliftserver.sdk-5.1.2.tgz",
     "com.unity.collab-proxy": "2.5.2",
     "com.unity.feature.development": "1.0.1",
     "com.unity.textmeshpro": "3.0.7",

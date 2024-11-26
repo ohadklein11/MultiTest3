@@ -1,0 +1,14 @@
+- Add support for GameLift Anywhere. This SDK version contains backwards-incompatible changes.
+- Update InitSDK() API to take a ServerParameters parameter.
+- Remove TerminateGameSession() API
+- Rename GetInstanceCertificate() API to GetComputeCertificate()
+- Add GetFleetRoleCredentials(GetFleetRoleCredentialsRequest) API
+- Remove dependency on Protobuf
+- Remove dependency on WebSocketSharpFork
+- Upgrade log4net dependency from 2.0.5 to 2.0.15
+- Upgrade Newtonsoft.Json from 9.0.1 to 13.0.1
+- Add dependency on WebSocketSharp 1.0.3-rc11
+- Add dependency on Polly 5.9.0
+- Add SDK unit tests using dependency NUnit 3.13.3 and Moq 4.16.1
+- Updated Amazon GameLift C# Server SDK to support .NET 6
+- Updated sample code for .NET 6

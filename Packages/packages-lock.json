@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.amazonaws.gamelift": {
-      "version": "file:C:/Users/ohadk/Desktop/Projects/amazon-gamelift-plugin-unity-release-2.1.0/com.amazonaws.gamelift-2.1.0.tgz",
+      "version": "file:../InstallPlugin/amazon-gamelift-plugin-unity-release-2.1.0/com.amazonaws.gamelift-2.1.0.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {
@@ -9,7 +9,7 @@
       }
     },
     "com.amazonaws.gameliftserver.sdk": {
-      "version": "file:C:/Users/ohadk/Desktop/Projects/amazon-gamelift-plugin-unity-release-2.1.0/GameLift-CSharp-ServerSDK-UnityPlugin-5.1.2/com.amazonaws.gameliftserver.sdk-5.1.2.tgz",
+      "version": "file:../InstallPlugin/amazon-gamelift-plugin-unity-release-2.1.0/GameLift-CSharp-ServerSDK-UnityPlugin-5.1.2/com.amazonaws.gameliftserver.sdk-5.1.2.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {
