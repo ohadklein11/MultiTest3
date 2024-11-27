@@ -4,6 +4,8 @@
     "com.amazonaws.gameliftserver.sdk": "file:../InstallPlugin/amazon-gamelift-plugin-unity-release-2.1.0/GameLift-CSharp-ServerSDK-UnityPlugin-5.1.2/com.amazonaws.gameliftserver.sdk-5.1.2.tgz",
     "com.unity.collab-proxy": "2.5.2",
     "com.unity.feature.development": "1.0.1",
+    "com.unity.multiplayer.samples.coop": "https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop.git?path=/Packages/com.unity.multiplayer.samples.coop#main",
+    "com.unity.netcode.gameobjects": "1.11.0",
     "com.unity.textmeshpro": "3.0.7",
     "com.unity.timeline": "1.7.6",
     "com.unity.toolchain.win-x86_64-linux-x86_64": "2.0.10",

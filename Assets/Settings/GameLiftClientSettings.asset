@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d47bf200e3b04b43b938be15f9aabbf, type: 3}
   m_Name: GameLiftClientSettings
   m_EditorClassIdentifier: 
-  AwsRegion: us-east-1
-  UserPoolClientId: 13iln0bvri3nbud8e2mnn759ap
-  ApiGatewayUrl: https://cp6cji6ndc.execute-api.us-east-1.amazonaws.com/v1/
-  IsGameLiftAnywhere: 0
+  AwsRegion: 
+  UserPoolClientId: 
+  ApiGatewayUrl: 
+  IsGameLiftAnywhere: 1

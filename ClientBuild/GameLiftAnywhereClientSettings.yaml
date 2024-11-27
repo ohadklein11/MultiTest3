@@ -1,0 +1,6 @@
+version: 1
+CurrentRegion: us-east-1
+FleetId: fleet-a32133f2-d1c6-4268-b1f3-6723a0481063
+FleetLocation: custom-location-1
+CurrentProfileName: ohad-unity
+...

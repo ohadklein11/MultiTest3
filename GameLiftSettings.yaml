@@ -1,6 +1,6 @@
 version: 1
-LastOpenTab: ManagedEC2
-CurrentProfileName: DvirAdmin
+LastOpenTab: Anywhere
+CurrentProfileName: ohad-unity
 CurrentRegion: us-east-1
 UserProfiles: >+
   - Region: us-east-1
@@ -37,19 +37,19 @@ UserProfiles: >+
 
     DeploymentBuildFolderPath: 
 
-  - Region: 
+  - Region: us-east-1
 
     Name: ohad-unity
 
     BucketName: gamelift-bootstrap-209479289553-us-east-1
 
-    AnywhereFleetName: TestGame-AnywhereFleet
+    AnywhereFleetName: GameName-AnywhereFleet
 
-    AnywhereFleetId: fleet-48310c15-433b-44d2-bb41-813a42a2efc0
+    AnywhereFleetId: fleet-a32133f2-d1c6-4268-b1f3-6723a0481063
 
     AnywhereFleetLocation: custom-location-1
 
-    ComputeName: OhadWindows-ohad-unity
+    ComputeName: ComputerName-ProfileName
 
     IpAddress: 127.0.0.1
 
@@ -139,7 +139,7 @@ UserProfiles: >+
 
     DeploymentBuildFolderPath: 
 
-  - Region: us-east-1
+  - Region: 
 
     Name: DvirAdmin
 

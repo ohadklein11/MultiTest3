@@ -5,7 +5,11 @@
         "AmazonGameLiftPlugin.Runtime",
         "AmazonGameLiftPlugin.Runtime.Core",
         "AmazonGameLiftSDKPlugin.Runtime",
-        "AmazonGameLiftPlugin.EditorCoreAPI"
+        "AmazonGameLiftPlugin.EditorCoreAPI",
+        "Unity.Netcode.Components",
+        "Unity.Netcode.Editor",
+        "Unity.Netcode.Runtime",
+        "Unity.Networking.Transport"
     ],
     "includePlatforms": [
         "Editor",
